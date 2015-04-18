@@ -2,7 +2,7 @@
 // Created by lenovo on 2015/4/18.
 //
 
-#include "stdio.sh"
+#include <stdio.h>
 #include "simple.h"
 
 int main(void){
