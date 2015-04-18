@@ -6,7 +6,7 @@
 #include "simple.h"
 
 int main(void){
-    printf("\s", "dd");
+    printf("test");
     return 0;
 }
 
